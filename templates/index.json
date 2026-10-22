@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "file": "writing-helper.json",
+    "name": "Pena",
+    "title": "Writing helper",
+    "description": "Helps you write and edit emails, posts and documents. It keeps your voice, suggests shorter versions and checks spelling.",
+    "blockedTools": []
+  }
+]
